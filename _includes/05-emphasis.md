@@ -1,5 +1,5 @@
 # Skills
-Below id a list of my **technical skills:
+Below id a list of my **technical skills**
 
 ## Programming Languages
 - Visual Basic
