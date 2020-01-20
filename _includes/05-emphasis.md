@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+Below id a list of my **technical skills:
+
+## Programming Languages
+- Visual Basic
+- SAS
+
+## Favorite tools
+- Tableau
+- SQL developer
